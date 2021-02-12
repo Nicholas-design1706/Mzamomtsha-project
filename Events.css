@@ -1,0 +1,144 @@
+sticky{
+  position:sticky;
+  position:-webkit-sticky;
+  position: sticky;
+  position: fixed;
+  top:0px;
+  background-image:url("background 3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: darkblue;
+margin-left: 0;
+margin-right: 0;
+padding-left: 50px;
+padding-right: px;
+}
+
+
+body{
+  background-color: blue;
+  background-image: url("background 3.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  pading-bottom: 200px;
+  pading-top:200px;
+  
+
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: ;
+  width: auto;
+  font-family: sans-serif
+  justify-content: center
+  justify-content: space-between;
+  float: right;
+  margin-lef: 100px;
+  margin-righ: 100px;
+  border: 2px black;
+  color: white;
+position: fixed;
+  top:0px;
+  right: 0px;
+
+
+
+
+}
+
+li {
+  float: left;
+
+
+}
+
+li a {
+
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  padding-left: 200px
+  justify-content: space-around;
+  justify-content: center;
+  padding-bottom: 50px;
+
+}
+
+li a:hover {
+  background-color: blue;
+}
+
+/*Container containing Logo and header*/
+.container{
+  display: flex;
+  backgound-color: white;
+  align-items:center;
+  justify-content: flex-stat;
+  justify-content: space-between;
+  font-size: 50px;
+   word-break: keep-all;
+   font-family: fantasy;
+   padding-right: 130px;
+   color: gold;
+   padding-right: 500px;
+   top:100px;
+
+
+}
+#more {display: none;}
+.html{
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
+h1{
+  float: center;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+  padding-top: 50px;
+}
+.nav{
+  justify-content: center;
+  padding-bottom: 30px;
+
+}
+.body{
+  background-color:;
+
+}
+.bodytext{
+  background-color: white;
+}
+#bodytext{
+  margin-left: 150px;
+  margin-right: 150px;
+  color: white;
+padding-top: 20px;
+}
+h2{
+  padding-top: 50px;
+  color: gold;
+}
+.headmaster{
+  border:10px;
+  background-color: blu;
+}
+#nav{
+  position: sticky;
+position: fixed;
+top:0px;
+}
+#more {
+  display: none;
+}
+.margin{
+  color: white;
+}
